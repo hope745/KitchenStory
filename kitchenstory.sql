@@ -1,0 +1,1 @@
+adminidSELECT * FROM kitchenstory.admin;
